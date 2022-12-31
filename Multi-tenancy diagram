@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-31T04:03:04.758Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="uXz5iGwphaBQza416OrX" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-31T04:09:40.043Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="8FYqMwq2jKgXX6mcWNKa" type="github">
   <diagram id="9vxEIU7iDslnNgNo1jX7" name="Page-1">
-    <mxGraphModel dx="2132" dy="1335" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2550" dy="1660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -208,7 +208,7 @@
         <mxCell id="uNW-90PXj8F21--aBZtR-124" value="User Management Stack&lt;br style=&quot;font-size: 13px;&quot;&gt;Lambas Interacting with DynamoDB" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.lambda_function;fillColor=#F58534;gradientColor=none;rounded=1;labelBackgroundColor=default;labelBorderColor=none;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;strokeWidth=1;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="uNW-90PXj8F21--aBZtR-127">
           <mxGeometry y="176.45" width="69" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="uNW-90PXj8F21--aBZtR-125" value="Admid Authorizer Authenticated" style="endArrow=classic;html=1;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Times New Roman;fontSize=16;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;" edge="1" parent="uNW-90PXj8F21--aBZtR-127" source="uNW-90PXj8F21--aBZtR-114" target="uNW-90PXj8F21--aBZtR-124">
+        <mxCell id="uNW-90PXj8F21--aBZtR-125" value="Admin Authorizer Authenticated" style="endArrow=classic;html=1;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Times New Roman;fontSize=16;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;" edge="1" parent="uNW-90PXj8F21--aBZtR-127" source="uNW-90PXj8F21--aBZtR-114" target="uNW-90PXj8F21--aBZtR-124">
           <mxGeometry x="0.3573" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="14" y="76.44999999999999" as="sourcePoint" />
             <mxPoint x="64" y="26.44999999999999" as="targetPoint" />
